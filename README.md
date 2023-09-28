@@ -18,3 +18,7 @@ O jornal Study Alert surgiu diante de uma necessidade dos estudantes e funcioná
 - Índice de opções
 
   Com o índice você tem fácil acesso as várias páginas e abas do nosso jornal. A página principal com as notícias mais recentes e uma página chamada "Sobre Nós" onde você pode descobrir mais sobre quem são os desenvolvedores e jornalistas que fazem esse jornal funcionar.
+
+# Link
+
+https://ratattuii.github.io/Study-Alert/
